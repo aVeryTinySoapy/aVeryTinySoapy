@@ -1,8 +1,8 @@
-# <p align="center">
-  <p align="center">
-  <img src="https://i.imgur.com/vHqLh7g.png" width="600" alt="Welcome to my space, I'm Wyn!" />
-  </p>
-</p> 👋 ✨
+#<h1><p align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕤𝕡𝕒𝕔𝕖, 𝕀'𝕞 𝕎𝕪𝕟! ✨👋</p></h1>
+
+<p align="center">Welcome to my digital space! I'm an IT graduate who loves bridging the gap between hardware and the cloud. Whether I'm building scalable web backends, writing firmware for microcontrollers, or designing system architectures, I love making things automated and efficient.</p>
+
+---
 
 ### 🌌 Software & Hardware Builder 🌌
 
