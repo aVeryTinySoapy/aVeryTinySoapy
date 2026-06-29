@@ -4,12 +4,6 @@
 
 <h1><p align="center">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒, 𝐼'𝓂 𝒲𝓎𝓃! ✨👋</p></h1>
 
-<h3><p align="center">🌌 𝓈𝑜𝒻𝓉𝓌𝒶𝓇𝑒 & 𝒽𝒶𝓇𝒹𝓌𝒶𝓇𝑒 𝒷𝓊𝒾𝓁𝒹𝑒𝓇 🌌</p></h3>
-
----
-
-### 🌌 Software & Hardware Builder 🌌
-
 Welcome to my digital space! I'm an IT graduate who loves bridging the gap between hardware and the cloud. Whether I'm building scalable web backends, writing firmware for microcontrollers, or designing system architectures, I love making things automated and efficient.
 
 ---
