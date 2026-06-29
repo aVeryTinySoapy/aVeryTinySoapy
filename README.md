@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋 ✨
+# Hi there, I'm Wyn! 👋 ✨
 
 ### 🌌 Cloud & DevOps Enthusiast | Software & Hardware Builder
 
@@ -8,10 +8,10 @@ Welcome to my digital space! I'm an IT graduate who loves bridging the gap betwe
 
 ## 🔮 About Me
 
-- 🎓 **Recent Graduate:** Bachelor of Science in Information Technology 💻
-- ☁️ **Focus:** Passionate about **Cloud Engineering**, **DevOps**, and system automation.
-- 🛠️ **Current Goals:** Diving deep into AWS ecosystems and earning my cloud certifications.
-- 👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything pastel purple!
+🎓 **Recent Graduate:** Bachelor of Science in Information Technology. 🎓
+☁️ **Focus:** Passionate about **Cloud Engineering**, **DevOps**, and system automation. ☁️
+🛠️ **Current Goals:** Diving deep into AWS ecosystems and earning my cloud certifications. 🛠️
+👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾
 
 ---
 
@@ -34,15 +34,15 @@ Welcome to my digital space! I'm an IT graduate who loves bridging the gap betwe
 
 ## 🚀 Featured Projects
 
-### 🌊 [Project Name 1 / e.g., EnviroFlow]
+### 🌊 [EnviroFlow]
 > A multi-layered IoT environmental monitoring system utilizing microcontrollers and water sensors to capture real-time data, securely streaming it to the cloud via ThingSpeak.
 - **Tech:** Arduino, C++, ESP32, ThingSpeak Cloud, System Architecture
 
-### 🗳️ [Project Name 2 / e.g., SchoolElect]
+### 🗳️ [SchoolElect]
 > A unified web platform featuring custom backend logic, secure user flows, and streamlined data management for local deployment.
 - **Tech:** PHP, Laravel, HTML/CSS, Databases
 
-### 🗳️ [Currently Working on / e.g., IT Help Desk]
+### 🗳️ [Currently Working on - IT Help Desk]
 > A unified web platform featuring a ticketing system service for the IT Help Desk to help clients with there needs.
 - **Tech:** Java, Spring Boot, HTML/CSS, MySql Workbench
 
