@@ -38,15 +38,15 @@
 
 ### 🌊 EnviroFlow Detect
 > A multi-layered IoT environmental monitoring system utilizing microcontrollers and water sensors to capture real-time data, securely streaming it to the cloud via ThingSpeak.
-- **Tech:** Arduino, C++, ESP32, ThingSpeak Cloud, System Architecture
+  **Tech:** Arduino, C++, ESP32, ThingSpeak Cloud, System Architecture
 
 ### 🗳️ SchoolElect
 > A unified web platform featuring custom backend logic, secure user flows, and streamlined data management for local deployment of School's Voting System.
-- **Tech:** PHP, Laravel, HTML/CSS, Databases
+  **Tech:** PHP, Laravel, HTML/CSS, Databases
 
 ### 👨‍💻 Currently Working on - IT Help Desk
 > A unified web platform featuring a ticketing system service for the IT Help Desk to help clients with their needs.
-- **Tech:** Java, Spring Boot, HTML/CSS, MySql Workbench
+  **Tech:** Java, Spring Boot, HTML/CSS, MySql Workbench
 
 ---
 
@@ -54,8 +54,4 @@
 
 🎨 Want to collaborate on a project, talk cloud infrastructure, or just chat about tech? Reach out!
 
-- 📧 **Email:** [your.email@example.com](mailto:gwynrois24@gmail.com)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[aVeryTinySoapy]&color=9067c6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+  📧 **Email:** [your.email@example.com](mailto:gwynrois24@gmail.com)
