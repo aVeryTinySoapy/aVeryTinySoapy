@@ -54,4 +54,4 @@
 
 🎨 Want to collaborate on a project, talk cloud infrastructure, or just chat about tech? Reach out!
 
-  📧 **Email:** [your.email@example.com](mailto:gwynrois24@gmail.com)
+  📧 **Email:** [gwynrois24@gmail.com](mailto:gwynrois24@gmail.com)
