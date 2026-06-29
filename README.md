@@ -1,4 +1,6 @@
-# Hi there, I'm Wyn! 👋 ✨
+# <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Dancing+Script&size=45&duration=3000&pause=1000&color=B388FF&center=true&vCenter=true&width=500&height=100&lines=Welcome+to+my+space!;+I'm+Wyn+✨" alt="Wyn's Cursive Header" />
+</p> 👋 ✨
 
 ### 🌌 Software & Hardware Builder 🌌
 
