@@ -1,4 +1,4 @@
-#<h1><p align="center">𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕞𝕪 𝕤𝕡𝕒𝕔𝕖, 𝕀'𝕞 𝕎𝕪𝕟! ✨👋</p></h1>
+<h1><p align="center">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶分𝑒, 𝐼'𝓂 𝒲𝓎𝓃! ✨👋</p></h1>
 
 <p align="center">Welcome to my digital space! I'm an IT graduate who loves bridging the gap between hardware and the cloud. Whether I'm building scalable web backends, writing firmware for microcontrollers, or designing system architectures, I love making things automated and efficient.</p>
 
