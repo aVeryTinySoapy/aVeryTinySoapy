@@ -1,4 +1,4 @@
-<h1><p align="center">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒, 𝐼'𝓂 𝒲𝓎𝓃! ✨👋</p></h1>
+<h1><p align="center">🔮👾 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓈𝓅𝒶𝒸𝑒, 𝐼'𝓂 𝒲𝓎𝓃! 👾🔮</p></h1>
 
 <p align="center">
   <img src="https://i.pinimg.com/1200x/32/86/c7/3286c7fc7c91fa38be1bd06bd170b102.jpg" width="100%" alt="Purple Books Banner" />
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools 🛠️
+## 🔮 Tech Stack & Tools 🔮
 
 ### 💻 Software & Web Development
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-## 🚀 Featured Projects 🚀
+## 🔮 Featured Projects 🔮
 
 ### 🌊 EnviroFlow Detect
 > A multi-layered IoT environmental monitoring system utilizing microcontrollers and water sensors to capture real-time data, securely streaming it to the cloud via ThingSpeak.
