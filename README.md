@@ -9,8 +9,8 @@ Welcome to my digital space! I'm an IT graduate who loves bridging the gap betwe
 ## 🔮 About Me 🔮
 
 🎓 **Recent Graduate:** Bachelor of Science in Information Technology. 🎓
-☁️ **Focus:** Passionate about **Cloud Engineering**, **DevOps**, and system automation. ☁️
-🛠️ **Current Goals:** Diving deep into AWS ecosystems and earning my cloud certifications. 🛠️
+💻 **Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems. ⚡
+🛠️ **Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills. 🛠️
 👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾
 
 ---
