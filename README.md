@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Wyn 👋 👀
 
-<!--
-**aVeryTinySoapy/aVeryTinySoapy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://vercel.app" alt="Header" />
+</p>
 
-Here are some ideas to get you started:
+## 💜 About Me
+- 🔮 I’m currently working on **[Your Project]**
+- 🌌 I’m currently learning **[Your Tech Stack]**
+- 🍇 Ask me about **[Your Expertise]**
+- 👾 Fun fact **[Your Fun Fact]**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack & Skills
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="React" />
+  <img src="https://shields.io" alt="Git" />
+</p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&show_icons=true&theme=purple&bg_color=120024&title_color=ca86ff&icon_color=ca86ff&text_color=e2c0ff" alt="GitHub Stats" width="48%" />
+  <img src="https://herokuapp.com[YOUR-GITHUB-USERNAME]&theme=purple&background=120024&ring=ca86ff&fire=ca86ff&currStreakNum=e2c0ff" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app[YOUR-GITHUB-USERNAME]&layout=compact&theme=purple&bg_color=120024&title_color=ca86ff&text_color=e2c0ff" alt="Top Langs" width="50%" />
+</p>
