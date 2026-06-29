@@ -8,10 +8,10 @@ Welcome to my digital space! I'm an IT graduate who loves bridging the gap betwe
 
 ## 🔮 About Me 🔮
 
-🎓 **Recent Graduate:** Bachelor of Science in Information Technology. 🎓
-💻 **Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems. ⚡
-🛠️ **Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills. 🛠️
-👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾
+🎓 **Recent Graduate:** Bachelor of Science in Information Technology. 🎓 \br
+💻 **Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems. ⚡\br
+🛠️ **Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills. 🛠️ \br
+👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾 \br
 
 ---
 
