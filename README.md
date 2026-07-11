@@ -6,13 +6,7 @@
 
 <p align="center">Welcome to my digital space! I'm an IT graduate who loves bridging the gap between hardware and the cloud. Whether I'm building scalable web backends, writing firmware for microcontrollers, or designing system architectures, I love making things automated and efficient.</p>
 
----
-
-## 🔮 About Me 🔮
-
-**Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems.  
-**Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills.  
-👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾  
+<p align="center">👾 I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾  </p>
 
 ---
 
