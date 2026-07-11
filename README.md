@@ -10,8 +10,8 @@
 
 ## 🔮 About Me 🔮
 
-💻 **Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems. ⚡  
-🛠️ **Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills. 🛠️  
+**Focus:** Passionate about **Full-Stack Web Development**, **IoT Architectures**, and building efficient backend systems.
+**Current Goals:** Diving deep into Java Spring Boot and expanding my cloud integration skills.
 👾 **Fun Fact:** I love sleek tech aesthetics, minimalist diagrams, and everything purple! 👾  
 
 ---
