@@ -48,3 +48,14 @@
 🎨 Want to collaborate on a project, talk cloud infrastructure, or just chat about tech? Reach out!
 
   📧 **Email:** [gwynrois24@gmail.com](mailto:gwynrois24@gmail.com)
+
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" />
+</p>
+
