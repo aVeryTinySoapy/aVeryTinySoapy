@@ -49,11 +49,3 @@
 
   📧 **Email:** [gwynrois24@gmail.com](mailto:gwynrois24@gmail.com)
 
-<a href="https://gitcolors.vercel.app" target="_blank" rel="noopener">
-  <picture>
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=aVeryTinySoapy&color=9d44ff&theme=dark&mode=levels&preset=none" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://gitcolors.vercel.app/api/svg?username=aVeryTinySoapy&color=9d44ff&theme=light&mode=levels&preset=none" media="(prefers-color-scheme: light)" />
-    <img src="https://gitcolors.vercel.app/api/svg?username=aVeryTinySoapy&color=9d44ff&theme=light&mode=levels&preset=none" alt="aVeryTinySoapy contributions" width="1000" />
-  </picture>
-</a>
-
