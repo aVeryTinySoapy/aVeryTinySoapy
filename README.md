@@ -29,11 +29,11 @@
 
 ## 🔮 Featured Projects 🔮
 
-### 🌊 EnviroFlow Detect
+### 🌊 EnviroFlow Detect (https://github.com/aVeryTinySoapy/ED_System.git)
 > A multi-layered IoT environmental monitoring system utilizing microcontrollers and water sensors to capture real-time data, securely streaming it to the cloud via ThingSpeak.
   **Tech:** Arduino, C++, ESP32, ThingSpeak Cloud, System Architecture
 
-### 🗳️ SchoolElect
+### 🗳️ SchoolElect 
 > A unified web platform featuring custom backend logic, secure user flows, and streamlined data management for local deployment of School's Voting System.
   **Tech:** PHP, Laravel, HTML/CSS, Databases
 
